@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639602707 source:c:\projet\gestion institut\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1639602707 
+
+1639671555 source:/home/zorome/mes projets/GESTION INSTITUT/main.c
+	<stdio.h>
+	<stdlib.h>
+
